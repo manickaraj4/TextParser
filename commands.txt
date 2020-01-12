@@ -1,0 +1,207 @@
+
+Name                       : (sd-pam)
+Id                         : 1444
+PriorityClass              : Normal
+FileVersion                : 
+HandleCount                : 
+WorkingSet                 : 2658304
+PagedMemorySize            : 0
+PrivateMemorySize          : 0
+VirtualMemorySize          : 200654848
+TotalProcessorTime         : 00:00:00
+SI                         : 1443
+Handles                    : 
+VM                         : 200654848
+WS                         : 2658304
+PM                         : 0
+NPM                        : 0
+Path                       : 
+Parent                     : System.Diagnostics.Process (systemd)
+Company                    : 
+CPU                        : 0
+ProductVersion             : 
+Description                : 
+Product                    : 
+__NounName                 : Process
+SafeHandle                 : Microsoft.Win32.SafeHandles.SafeProcessHandle
+Handle                     : 1444
+BasePriority               : 0
+ExitCode                   : 
+HasExited                  : False
+StartTime                  : 12/01/20 9:19:26 AM
+ExitTime                   : 
+MachineName                : .
+MaxWorkingSet              : 9223372036854775807
+MinWorkingSet              : 0
+Modules                    : {}
+NonpagedSystemMemorySize64 : 0
+NonpagedSystemMemorySize   : 0
+PagedMemorySize64          : 0
+PagedSystemMemorySize64    : 0
+PagedSystemMemorySize      : 0
+PeakPagedMemorySize64      : 0
+PeakPagedMemorySize        : 0
+PeakWorkingSet64           : 0
+PeakWorkingSet             : 0
+PeakVirtualMemorySize64    : 0
+PeakVirtualMemorySize      : 0
+PriorityBoostEnabled       : False
+PrivateMemorySize64        : 0
+ProcessName                : (sd-pam)
+ProcessorAffinity          : 3
+SessionId                  : 1443
+StartInfo                  : 
+Threads                    : {1444}
+VirtualMemorySize64        : 200654848
+EnableRaisingEvents        : False
+StandardInput              : 
+StandardOutput             : 
+StandardError              : 
+WorkingSet64               : 2658304
+SynchronizingObject        : 
+MainModule                 : 
+MainWindowHandle           : 0
+MainWindowTitle            : 
+Responding                 : True
+PrivilegedProcessorTime    : 00:00:00
+UserProcessorTime          : 00:00:00
+Site                       : 
+Container                  : 
+
+Name                       : accounts-daemon
+Id                         : 530
+PriorityClass              : Normal
+FileVersion                : 
+HandleCount                : 
+WorkingSet                 : 6746112
+PagedMemorySize            : 0
+PrivateMemorySize          : 0
+VirtualMemorySize          : 302280704
+TotalProcessorTime         : 00:00:00.3300000
+SI                         : 530
+Handles                    : 
+VM                         : 302280704
+WS                         : 6746112
+PM                         : 0
+NPM                        : 0
+Path                       : 
+Parent                     : System.Diagnostics.Process (systemd)
+Company                    : 
+CPU                        : 0.33
+ProductVersion             : 
+Description                : 
+Product                    : 
+__NounName                 : Process
+SafeHandle                 : Microsoft.Win32.SafeHandles.SafeProcessHandle
+Handle                     : 530
+BasePriority               : 0
+ExitCode                   : 
+HasExited                  : False
+StartTime                  : 12/01/20 9:17:59 AM
+ExitTime                   : 
+MachineName                : .
+MaxWorkingSet              : 9223372036854775807
+MinWorkingSet              : 0
+Modules                    : {}
+NonpagedSystemMemorySize64 : 0
+NonpagedSystemMemorySize   : 0
+PagedMemorySize64          : 0
+PagedSystemMemorySize64    : 0
+PagedSystemMemorySize      : 0
+PeakPagedMemorySize64      : 0
+PeakPagedMemorySize        : 0
+PeakWorkingSet64           : 0
+PeakWorkingSet             : 0
+PeakVirtualMemorySize64    : 0
+PeakVirtualMemorySize      : 0
+PriorityBoostEnabled       : False
+PrivateMemorySize64        : 0
+ProcessName                : accounts-daemon
+ProcessorAffinity          : 3
+SessionId                  : 530
+StartInfo                  : 
+Threads                    : {530, 585, 587}
+VirtualMemorySize64        : 302280704
+EnableRaisingEvents        : False
+StandardInput              : 
+StandardOutput             : 
+StandardError              : 
+WorkingSet64               : 6746112
+SynchronizingObject        : 
+MainModule                 : 
+MainWindowHandle           : 0
+MainWindowTitle            : 
+Responding                 : True
+PrivilegedProcessorTime    : 00:00:00.1800000
+UserProcessorTime          : 00:00:00.1500000
+Site                       : 
+Container                  : 
+
+Name                       : acpid
+Id                         : 529
+PriorityClass              : Normal
+FileVersion                : 
+HandleCount                : 
+WorkingSet                 : 819200
+PagedMemorySize            : 0
+PrivateMemorySize          : 0
+VirtualMemorySize          : 4661248
+TotalProcessorTime         : 00:00:01.4300000
+SI                         : 529
+Handles                    : 
+VM                         : 4661248
+WS                         : 819200
+PM                         : 0
+NPM                        : 0
+Path                       : 
+Parent                     : System.Diagnostics.Process (systemd)
+Company                    : 
+CPU                        : 1.43
+ProductVersion             : 
+Description                : 
+Product                    : 
+__NounName                 : Process
+SafeHandle                 : Microsoft.Win32.SafeHandles.SafeProcessHandle
+Handle                     : 529
+BasePriority               : 0
+ExitCode                   : 
+HasExited                  : False
+StartTime                  : 12/01/20 9:17:59 AM
+ExitTime                   : 
+MachineName                : .
+MaxWorkingSet              : 9223372036854775807
+MinWorkingSet              : 0
+Modules                    : {}
+NonpagedSystemMemorySize64 : 0
+NonpagedSystemMemorySize   : 0
+PagedMemorySize64          : 0
+PagedSystemMemorySize64    : 0
+PagedSystemMemorySize      : 0
+PeakPagedMemorySize64      : 0
+PeakPagedMemorySize        : 0
+PeakWorkingSet64           : 0
+PeakWorkingSet             : 0
+PeakVirtualMemorySize64    : 0
+PeakVirtualMemorySize      : 0
+PriorityBoostEnabled       : False
+PrivateMemorySize64        : 0
+ProcessName                : acpid
+ProcessorAffinity          : 3
+SessionId                  : 529
+StartInfo                  : 
+Threads                    : {529}
+VirtualMemorySize64        : 4661248
+EnableRaisingEvents        : False
+StandardInput              : 
+StandardOutput             : 
+StandardError              : 
+WorkingSet64               : 819200
+SynchronizingObject        : 
+MainModule                 : 
+MainWindowHandle           : 0
+MainWindowTitle            : 
+Responding                 : True
+PrivilegedProcessorTime    : 00:00:01.1600000
+UserProcessorTime          : 00:00:00.2700000
+Site                       : 
+Container                  : 
